@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+Nome: Marcos Vinícius Moraes Costa
+Email: marcosviniciusmoraescosta11@gmail.com
+Git User: MarcosVini753
+=======
+Nome: Emanuel
+Email: emanuel.ramos@sou.ufac.br
+User: emanuel-souza-ramos
+>>>>>>> 98baaba0678421e681464d3db5cdab7d388b5115
